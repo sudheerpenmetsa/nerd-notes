@@ -12,13 +12,13 @@ https://brew.sh/
 ```
 Install using installer
 
-### List shells
+List shells
 cat /etc/shells
 
-### Switch shell
+Switch shell
 chsh -s /usr/local/bin/fish
 
-### check the current shell
+check the current shell
 echo $SHELL
 ```
 

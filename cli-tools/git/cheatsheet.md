@@ -1,7 +1,7 @@
-# update commiter info
+# Update commiter info
 ```
 git config --global user.name "Sudheer Penmetsa"
-git config --global user.email "your.email@example.com"
+git config --global user.email "sudheerpenmetsa@hotmail.com"
 ```
 
 # Create the .gitignore file with common macOS/Dev ignores
